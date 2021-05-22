@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-class logic
+class Operator5
 {
     public static void main(String args[])
     {
