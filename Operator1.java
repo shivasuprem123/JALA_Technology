@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-class arithematic
+class Operator1
 {
     public static void main(String args[])
     {
