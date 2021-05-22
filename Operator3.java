@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-class compare
+class Operator3
 {
     public static void main(String args[])
     {
