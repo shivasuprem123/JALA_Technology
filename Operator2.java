@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-class incdec
+class Operator2
 {
     public static void main(String args[])
     {
